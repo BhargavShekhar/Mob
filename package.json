@@ -1,5 +1,5 @@
 {
-  "name": "Mob",
+  "name": "mob",
   "private": true,
   "scripts": {
     "build": "turbo run build",
