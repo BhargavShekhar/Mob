@@ -1,4 +1,4 @@
-import { Calendar, Home, Inbox, Search, Settings, MessageSquareMoreIcon } from "lucide-react"
+import { MessageSquareMoreIcon } from "lucide-react"
 import { Input } from "@/components/ui/input"
 
 import {

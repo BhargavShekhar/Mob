@@ -14,10 +14,10 @@ function Appbar() {
       <h1 className='text-xl font-semibold'>Mob</h1>
       <div>
         <SignedOut>
-          <div className='flex gap-2'>
+          <div className='flex gap-4'>
             <SignInButton />
             <SignUpButton>
-              <Button>Sign up</Button>
+              <Button variant={'secondary'}>Sign up</Button>
             </SignUpButton>
           </div>
         </SignedOut>
