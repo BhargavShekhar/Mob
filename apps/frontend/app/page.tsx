@@ -4,8 +4,6 @@ import Appbar from "@/components/Appbar";
 import Prompt from "@/components/Prompt";
 import TemplateButtons from "@/components/TemplateButtons";
 
-const API_KEY = "AIzaSyBugeHX2jRel-_kZcMNyAq9C_2oxYQ6dJ4";
-
 export default function Home() {
   return (
     <div className="min-h-screen w-full text-white">
